@@ -1,6 +1,6 @@
 # React Native Hindi Tutorial by TechNark
 
-This is the repo for React Native tutorial series available on TechNark's [YouTube]([here](https://www.youtube.com/@OfficialTechNark) in Hindi.
+This is the repo for React Native tutorial series available on [TechNark's](https://www.technark.net/) [YouTube](https://www.youtube.com/@OfficialTechNark) in Hindi.
 
 The repo is set to public so that all viewers can have access to the code written during the tutorial series.
 
