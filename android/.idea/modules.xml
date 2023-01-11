@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CounterApp.iml" filepath="$PROJECT_DIR$/.idea/modules/CounterApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CounterApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CounterApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1125506198/CounterApp.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1125506198/CounterApp.react-native-async-storage_async-storage.iml" />
+    </modules>
+  </component>
+</project>
