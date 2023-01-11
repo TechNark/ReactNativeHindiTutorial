@@ -8,4 +8,4 @@ import Counter from './src/containers/Counter/Counter';
 import List from './src/containers/List/List';
 import {name as appName} from './app.json';
 
-AppRegistry.registerComponent(appName, () => Counter);
+AppRegistry.registerComponent(appName, () => App);
